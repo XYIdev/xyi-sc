@@ -18,6 +18,6 @@
 - `setup.txt` should be resseted to its default state without your token.
     > If not removed, you **should** do it yourself.
 
-
-
+# Warnings
+**Bot must be in folder named** `/community_bot/`
 **Never share your project with the** `/data/` **folder**
