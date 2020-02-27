@@ -8,4 +8,4 @@
 1. Start setup.py
 
 - token.token should be created in /data/
-> If not create, you can create it manually, should only contain the token on 1st line.
+    > If not created, you can create it manually, should only contain the token on 1st line.
