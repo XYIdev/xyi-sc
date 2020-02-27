@@ -1,6 +1,8 @@
-# xyi-cs
+# XYI-CS
 
-**How to use**
+
+
+# How to use
 
 **Setting up Discord.py**
 1. open cmd using Win+R 
