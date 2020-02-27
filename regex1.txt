@@ -1,0 +1,1 @@
+kms|(kill)\s(myself)|(want to|wanna)\s(feel)\s(pain|better)|(fucking)\s(cut|cut\smyself|die)|(commit)\s(selfharm|self-harm|self\sharm|suicide)|(cut |slice|yeet|kill)(\s|)(myself|)|(im|iam|i`m|i'm)\s(really\s|very\s|)(dumb)|i\s(want|wanna|want to)\s(cut|slice|yeet|kill)(\s|)(myself|)
