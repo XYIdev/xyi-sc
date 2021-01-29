@@ -1,4 +1,4 @@
-# XYI-CS
+# BOT IS NO LONGER SUPPORTED
 
 
 
